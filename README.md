@@ -8,17 +8,13 @@
 
 ## ➰ **Tech Stack** 
 
-**☁️ Cloud & DevOps**  
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-
 **🔍 Monitoring & Security**  
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571.svg?&style=for-the-badge&logo=elasticstack&logoColor=white)
 
 **💻 Development**  
+![dotnet](https://img.shields.io/badge/-%2ENET-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-![React Native](https://img.shields.io/badge/Reactnative-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 
 **🛠️ Infrastructure**  
 ![VMWare](https://img.shields.io/badge/vmware-607078.svg?&style=for-the-badge&logo=vmware&logoColor=white)
