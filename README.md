@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
 
 💻 백엔드 개발을 중심으로 다양한 프로젝트를 진행하며 실력을 쌓고 있습니다.<br>
 ☁️ 마이크로서비스, Kafka, Spring, Redis 등에 관심이 많습니다.<br>
