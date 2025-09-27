@@ -9,6 +9,8 @@
 ## ➰ **Tech Stack** 
 
 **🔍 Monitoring & Security**  
+![prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571.svg?&style=for-the-badge&logo=elasticstack&logoColor=white)
 
 **💻 Development**  
@@ -17,12 +19,14 @@
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 
 **🛠️ Infrastructure**  
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![VMWare](https://img.shields.io/badge/vmware-607078.svg?&style=for-the-badge&logo=vmware&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/apachekafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **💾 Database & Queue**  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![redis](https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 <br><hr>
 
